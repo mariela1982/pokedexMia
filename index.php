@@ -13,7 +13,7 @@ include_once ('header.php');
 ?>
 <section class="tabla">
     <div>
- <p>  " hola mundo " </p>
+
     </div>
 </section>
 <?php
