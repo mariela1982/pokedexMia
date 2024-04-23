@@ -14,7 +14,7 @@ include_once ('header.php');
 <section class="tabla">
     <div>
         <p>hola por favor </p>
-
+        <p>hola de nuevo</p>
     </div>
 </section>
 <?php
