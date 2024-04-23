@@ -13,7 +13,7 @@ include_once ('header.php');
 ?>
 <section class="tabla">
     <div>
-
+        <h1>Pokedex</h1>
     </div>
 </section>
 <?php
