@@ -12,7 +12,9 @@
 include_once ('header.php');
 ?>
 <section class="tabla">
+    <div>
 
+    </div>
 </section>
 <?php
 include_once ('footer.php');
